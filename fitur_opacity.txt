@@ -1,0 +1,5 @@
+FITUR OPACITY
+
+-- pakai js --
+--pakai css --
+-- clean code --
