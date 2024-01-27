@@ -3,3 +3,5 @@ FITUR OPACITY
 -- pakai js --
 --pakai css --
 -- clean code --
+-- dibawah 4 line --
+-- warna analogous --
