@@ -6,4 +6,5 @@ FITUR OPACITY
 -- dibawah 4 line --
 -- warna analogous --
 -- hitam dan putih --
+--konten menarik dan idealisme --
 
